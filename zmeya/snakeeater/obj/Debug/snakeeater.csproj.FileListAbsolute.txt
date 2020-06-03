@@ -1,0 +1,14 @@
+C:\Users\gr693_bda\source\repos\snakeeater\snakeeater\bin\Debug\snakeeater.exe.config
+C:\Users\gr693_bda\source\repos\snakeeater\snakeeater\bin\Debug\snakeeater.exe
+C:\Users\gr693_bda\source\repos\snakeeater\snakeeater\bin\Debug\snakeeater.pdb
+C:\Users\gr693_bda\source\repos\snakeeater\snakeeater\obj\Debug\snakeeater.csprojAssemblyReference.cache
+C:\Users\gr693_bda\source\repos\snakeeater\snakeeater\obj\Debug\snakeeater.csproj.CoreCompileInputs.cache
+C:\Users\gr693_bda\source\repos\snakeeater\snakeeater\obj\Debug\snakeeater.exe
+C:\Users\gr693_bda\source\repos\snakeeater\snakeeater\obj\Debug\snakeeater.pdb
+C:\Users\Kabak\OneDrive\Рабочий стол\snakeeater-master\snakeeater\bin\Debug\snakeeater.exe.config
+C:\Users\Kabak\OneDrive\Рабочий стол\snakeeater-master\snakeeater\bin\Debug\snakeeater.exe
+C:\Users\Kabak\OneDrive\Рабочий стол\snakeeater-master\snakeeater\bin\Debug\snakeeater.pdb
+C:\Users\Kabak\OneDrive\Рабочий стол\snakeeater-master\snakeeater\obj\Debug\snakeeater.csprojAssemblyReference.cache
+C:\Users\Kabak\OneDrive\Рабочий стол\snakeeater-master\snakeeater\obj\Debug\snakeeater.csproj.CoreCompileInputs.cache
+C:\Users\Kabak\OneDrive\Рабочий стол\snakeeater-master\snakeeater\obj\Debug\snakeeater.exe
+C:\Users\Kabak\OneDrive\Рабочий стол\snakeeater-master\snakeeater\obj\Debug\snakeeater.pdb
